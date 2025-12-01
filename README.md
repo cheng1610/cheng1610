@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+hello i'm chang, a university of science and technology student from Taiwan, I mainly study computer sicense and i hope that one day I can contribute to both the software and AI technology.
 <!--
 **cheng1610/cheng1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
